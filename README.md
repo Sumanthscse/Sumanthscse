@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Aspiring **Cloud & DevOps Engineer**
+- 🎓 Aspiring **Cloud & Network Engineer**
 - ☁️ Hands-on experience with **AWS Cloud Infrastructure**
 - 🏗️ Built production-style infrastructure using **Terraform (Infrastructure as Code)**
 - 🌐 Strong knowledge in **Networking Fundamentals**
