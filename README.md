@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+/* 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumanthscse&show_icons=true&theme=tokyonight" />
@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthscse&layout=compact&theme=tokyonight" />
 </p>
-
+... */
 ---
 
 ## 📫 Connect With Me
