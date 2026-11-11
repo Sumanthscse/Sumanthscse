@@ -52,23 +52,6 @@
 
 🔗 Repository: https://github.com/Sumanthscse/edustream-lms-aws-terraform
 
----
-
-/* 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanthscse&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanthscse&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthscse&layout=compact&theme=tokyonight" />
-</p>
-... */
----
 
 ## 📫 Connect With Me
 
