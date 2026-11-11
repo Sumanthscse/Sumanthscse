@@ -28,7 +28,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥  Projects
 
 ### ☁️ Automated Cloud Infrastructure Provisioning using Terraform & AWS
 - Production-ready AWS infrastructure automation
